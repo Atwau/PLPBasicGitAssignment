@@ -1,6 +1,6 @@
 Git basic commands
 - git init
-- git remote ad origin "link to the repository"
+- git remote add origin "link to the repository"
 - git add "name of file"
 - git status 
 - git commit -m "commit message"
